@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MultijugadorRed/Scene/Main.unity
+    guid: e202ebf4567e02640ac72ab6da25bf16
