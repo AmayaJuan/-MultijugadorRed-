@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/MultijugadorRed/Scene/Menu.unity
+    guid: c954a991a5ef74e49b4e530e46ddd78f
+  - enabled: 1
     path: Assets/MultijugadorRed/Scene/Main.unity
     guid: e202ebf4567e02640ac72ab6da25bf16
